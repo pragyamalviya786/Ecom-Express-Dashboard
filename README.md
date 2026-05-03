@@ -46,7 +46,8 @@ The goal is to help stakeholders understand business performance and make data-d
 ## 📷 Dashboard Preview
 
 ### Overview
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](screenshot1.png.png)
+![Dashboard Overview](screenshot2.png.png)
 
 ### Insights
 ![Insights View](insights_view.png)
