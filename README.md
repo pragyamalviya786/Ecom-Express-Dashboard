@@ -1,67 +1,82 @@
-# 📊 Ecom Express - Sales Analytics Dashboard
+# 📊 Ecom Express Power BI Dashboard
 
-## 🚀 Project Overview
-This project is a business intelligence dashboard built for Ecom Express to analyze e-commerce performance. It provides insights into sales, customers, ratings, cancellation rate, and average order value (AOV).
-
-The goal is to help stakeholders understand business performance and make data-driven decisions.
+A professional data analytics dashboard built using **Power BI** to analyze business performance of Ecom Express.  
+It provides insights into revenue trends, customer behavior, cancellation rates, and product/category performance.
 
 ---
 
-## 🎯 Business Problem
-- Understanding overall sales performance
-- Identifying top-performing categories and cities
-- Monitoring customer ratings and satisfaction
-- Reducing cancellation rate
-- Improving revenue insights through AOV analysis
+## 🚀 Project Objective
+
+The goal of this project is to transform raw logistics data into meaningful business insights for better decision-making.
 
 ---
 
-## 📌 Key KPIs
-- 📦 Total Orders: 15.69K  
-- 💰 Average Order Value (AOV): 112.87K  
-- ⭐ Rating Analysis  
-- ❌ Cancellation Rate  
-- 📍 Sales by City & Category  
+## 📸 Dashboard Preview
+
+### 📍 Overview Dashboard
+![Screenshot 1](screenshot1.png)
+
+### 📍 Detailed Insights Dashboard
+![Screenshot 2](screenshot2.png)
 
 ---
 
-## 📊 Dashboard Insights
-- Revenue distribution across categories
-- Top performing cities
-- High value order analysis using AOV
-- Customer rating patterns
-- Cancellation trends by category
+## 📈 Key Business Insights
+
+- 📊 Revenue performance tracking across time
+- 👥 Customer analysis (new vs returning customers)
+- ❌ Cancellation rate analysis by category & city
+- 🏆 Top 5 products by revenue
+- 📦 Category & sub-category performance breakdown
 
 ---
 
-## 🛠️ Tools Used
-- Power BI
-- DAX (Data Analysis Expressions)
-- Data Cleaning
-- Data Visualization
-- Business Intelligence Concepts
+## 🛠 Tools & Technologies Used
+
+- Power BI Desktop
+- Microsoft Excel / CSV Dataset
+- Data Cleaning & Transformation (Power Query)
+- DAX Measures & Calculations
 
 ---
 
-## 📷 Dashboard Preview
+## 📁 Project Files
 
-### Overview
-![Dashboard Overview](screenshot1.png.png)
-![Dashboard Overview](screenshot2.png.png)
-
-### Insights
-![Insights View](insights_view.png)
+- `dashboard.pbix` → Main Power BI file  
+- `screenshot1.png` → Dashboard overview  
+- `screenshot2.png` → Detailed analysis view  
+- `README.md` → Project documentation  
 
 ---
 
-## 📈 Business Impact
-- Helps identify revenue-driving categories
-- Improves decision-making for marketing strategy
-- Reduces cancellations through data insights
-- Tracks customer satisfaction via ratings
+## 📊 Dashboard Features
+
+- Interactive filters & slicers
+- Dynamic KPI cards
+- Drill-down analysis
+- Clean and user-friendly UI
+- Business-focused insights
 
 ---
 
-## 👩‍💻 Author
-Pragya Malviya  
-Aspiring Data Analyst | Power BI Enthusiast
+## ⚡ How to Use
+
+1. Download the repository
+2. Open `dashboard.pbix` in Power BI Desktop
+3. Refresh data if required
+4. Explore interactive visuals
+
+---
+
+## 👩‍💻 Developed By
+
+**Pragya Malviya**  
+Aspiring Data Analyst | Power BI Enthusiast  
+
+---
+
+## ⭐ Note
+
+This project is created for learning and portfolio purposes to demonstrate data analysis and visualization skills.
+
+---
